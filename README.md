@@ -1,16 +1,41 @@
-## Hi there 👋
+# Ankit Raj
 
-<!--
-**ankitraj217/ankitraj217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer • React Native • AI & ML
 
-Here are some ideas to get you started:
+**B.Tech CSE (AI & ML), GJUST Hisar**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I design and build scalable systems across web, mobile, and AI.
+- I focus on performance, reliability, clean architecture, and developer experience.
+- **Previously:** Web Developer Intern at **Zidio Development**.
+- Creator of **SimpliAuth**, an open-source authentication library.
+
+---
+
+## ~ What I Work On ~
+
+- **Full-Stack Engineering**
+- **Mobile App Development**
+- **AI/ML Pipelines**
+- **Database Design**
+- **System Optimization & API Design**
+- **Cloud Deployments**
+
+---
+
+## ~ Technical Skills ~
+
+- **Languages:** JavaScript • TypeScript • Python • Java • C
+- **Frontend:** React • Next.js • Tailwind CSS
+- **Backend:** Node.js • Express.js
+- **Data/ML:** NumPy • Pandas • Scikit-learn • TensorFlow • OpenCV
+- **Mobile:** React Native • Expo • Firebase
+- **Tools:** Git • GitHub • Postman • Figma • Vercel
+
+---
+
+## ~ Let's Connect ~
+
+- **Portfolio:** [axkitraj.vercel.app](https://axkitraj.vercel.app)
+- **LinkedIn:** [linkedin.com/in/ankitraj217](https://linkedin.com/in/ankitraj217)
+- **Email:** [reach.ankitraj@gmail.com](mailto:reach.ankitraj@gmail.com)
+
