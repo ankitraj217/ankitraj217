@@ -24,10 +24,10 @@
 
 ## ~ Technical Skills ~
 
-- **Languages:** JavaScript • TypeScript • Python • Java • C
+- **Languages:** Java • Python • JavaScript • TypeScript • C++
 - **Frontend:** React • Next.js • Tailwind CSS
-- **Backend:** Node.js • Express.js
-- **Data/ML:** NumPy • Pandas • Scikit-learn • TensorFlow • OpenCV
+- **Backend:** Node.js • Express.js • REST APIs • MongoDB • MySQL
+- **Data/ML:** NumPy • Pandas • Scikit-learn • TensorFlow • OpenCV • Matplotlib
 - **Mobile:** React Native • Expo • Firebase
 - **Tools:** Git • GitHub • Postman • Figma • Vercel
 
