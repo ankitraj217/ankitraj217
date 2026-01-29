@@ -35,7 +35,7 @@
 
 ## ~ Let's Connect ~
 
-- **Portfolio:** [axkitraj.vercel.app](https://axkitraj.vercel.app)
+- **Portfolio:** [axkitraj.vercel.app](https://rajankit.in)
 - **LinkedIn:** [linkedin.com/in/ankitraj217](https://linkedin.com/in/ankitraj217)
-- **Email:** [reach.ankitraj@gmail.com](mailto:reach.ankitraj@gmail.com)
+- **Email:** [reach.ankitraj@gmail.com](mailto:contact@rajankit.in)
 
