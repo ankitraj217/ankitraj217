@@ -37,5 +37,5 @@
 
 - **Portfolio:** [rajankit.in](https://rajankit.in)
 - **LinkedIn:** [linkedin.com/in/ankitraj217](https://linkedin.com/in/ankitraj217)
-- **Email:** [hello@rajankit.in](mailto:hello@rajankit.in)
+- **Email:** [ankitraj2095@gmail.com](mailto:ankitraj2095@gmail.com)
 
